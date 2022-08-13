@@ -1,0 +1,25 @@
+
+.bg-salmon {
+    background-color: salmon;
+}
+
+
+/* FLEX */
+
+
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+
+/* HEIGHT */
+
+.h-40 {
+    height: 10rem;
+}
+
+
