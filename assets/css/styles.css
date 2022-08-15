@@ -1,25 +1,37 @@
-
 .bg-salmon {
-    background-color: salmon;
+  background-color: salmon;
 }
-
 
 /* FLEX */
 
-
 .flex {
-    display: flex;
+  display: flex;
 }
 
 .justify-center {
-    justify-content: center;
+  justify-content: center;
 }
 
+/* GRID */
+
+.grid {
+    display: grid;
+}
+
+.grid-cols-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-row-2 {
+  grid-template-rows: 0.5fr 0.5fr;
+}
 
 /* HEIGHT */
 
 .h-40 {
-    height: 10rem;
+  height: 10rem;
 }
 
-
+.h-8 {
+    height: 2rem;
+}
