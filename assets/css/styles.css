@@ -8,6 +8,10 @@
   background-color: salmon;
 }
 
+.bg-green {
+  background-color: green;
+}
+
 /* FLEX */
 
 .flex {
@@ -44,4 +48,10 @@
 
 .h-8 {
   height: 2rem;
+}
+
+/* MARGIN */
+
+.mt-40 {
+  margin-top: 10rem;
 }
